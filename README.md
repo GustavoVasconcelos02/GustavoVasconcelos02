@@ -48,6 +48,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoVasconcelos02&theme=dark&show_icons=true" />
 </a>
 
+[![GustavoVasconcelos02](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVasconcelos02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gustavo-serra-vasconcelos-406421203)
