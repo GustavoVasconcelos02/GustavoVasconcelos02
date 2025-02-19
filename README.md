@@ -50,5 +50,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Gustavo-Vasconcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gustavo-serra-vasconcelos-406421203)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gustavo-serra-vasconcelos-406421203)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/GustavoVasconcelos02))
