@@ -47,8 +47,10 @@
 <a href="https://github.com/GustavoVasconcelos02" title="Perfil do Gustavo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoVasconcelos02&theme=dark&show_icons=true" />
 </a>
+<a href="https://github.com/GustavoVasconcelos02/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVasconcelos02&layout=compact&theme=dark" />
+</a>
 
-[![GustavoVasconcelos02](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVasconcelos02&layout=compact)](https://github.com/GustavoVasconcelos02/github-readme-stats)
 
 ## Onde me encontrar
 
