@@ -49,7 +49,7 @@ I'm Gustavo, a software developer passionate about AI, automation, and cloud tec
 <a href="https://github.com/GustavoVasconcelos02" title="Perfil do Gustavo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoVasconcelos02&theme=dark&show_icons=true" />
 </a>
-<a href="https://github.com/GustavoVasconcelos02/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVasconcelos02&layout=compact&theme=dark" />
 </a>
 
