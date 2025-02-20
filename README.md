@@ -4,11 +4,7 @@
 
 ## About Me
 
-- 🤔 Exploring new technologies and developing software solutions.
-- 🎓 Studying Information Systems at the Federal University of Mato Grosso do Sul.
-- 🌱 Currently learning more about AI/ML and its applications.
-- 🤖 Focused on developing custom chatbots, AI Agents, and general automations using AWS AI services.
-- 📜 AWS Certified Cloud Practitioner (CLF-C02).
+I'm Gustavo, a software developer passionate about AI, automation, and cloud technologies. Currently studying Information Systems, I focus on building custom chatbots, AI Agents, and automations using AWS AI services. As an AWS Certified Cloud Practitioner, I enjoy creating scalable and efficient solutions. Always learning and exploring new ways to solve real-world problems with code.
 
 ---
 
